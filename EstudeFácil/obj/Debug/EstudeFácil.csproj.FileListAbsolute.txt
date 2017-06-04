@@ -1,0 +1,11 @@
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\bin\Debug\EstudeFácil.exe.config
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\bin\Debug\EstudeFácil.exe
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\bin\Debug\EstudeFácil.pdb
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.csprojResolveAssemblyReference.cache
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.Explicacao.resources
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.Form1.resources
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.Properties.Resources.resources
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.csproj.GenerateResource.Cache
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.exe
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.pdb
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\EstudeFácil\EstudeFácil\obj\Debug\EstudeFácil.Topicos.resources
