@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Topicos));
             this.label1 = new System.Windows.Forms.Label();
             this.btnSim = new System.Windows.Forms.Button();
             this.btnNao = new System.Windows.Forms.Button();
@@ -125,6 +126,7 @@
             this.Controls.Add(this.btnNao);
             this.Controls.Add(this.btnSim);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Topicos";
             this.Text = "Topicos";
             this.ResumeLayout(false);
