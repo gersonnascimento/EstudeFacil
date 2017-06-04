@@ -35,25 +35,33 @@
             // 
             // btnFinalizar
             // 
-            this.btnFinalizar.Location = new System.Drawing.Point(636, 316);
+            this.btnFinalizar.BackColor = System.Drawing.Color.MintCream;
+            this.btnFinalizar.FlatAppearance.BorderColor = System.Drawing.Color.MediumAquamarine;
+            this.btnFinalizar.FlatAppearance.BorderSize = 3;
+            this.btnFinalizar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnFinalizar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnFinalizar.Location = new System.Drawing.Point(626, 316);
             this.btnFinalizar.Name = "btnFinalizar";
-            this.btnFinalizar.Size = new System.Drawing.Size(75, 23);
+            this.btnFinalizar.Size = new System.Drawing.Size(85, 30);
             this.btnFinalizar.TabIndex = 0;
             this.btnFinalizar.Text = "Finalizar";
-            this.btnFinalizar.UseVisualStyleBackColor = true;
+            this.btnFinalizar.UseVisualStyleBackColor = false;
             this.btnFinalizar.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(12, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(241, 13);
+            this.label1.Size = new System.Drawing.Size(476, 24);
             this.label1.TabIndex = 1;
             this.label1.Text = "Agora explique o que você sabe sobre o assunto:";
             // 
             // txtTexto
             // 
+            this.txtTexto.BackColor = System.Drawing.Color.MintCream;
+            this.txtTexto.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtTexto.Location = new System.Drawing.Point(12, 35);
             this.txtTexto.Multiline = true;
             this.txtTexto.Name = "txtTexto";
@@ -64,7 +72,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(726, 358);
+            this.BackColor = System.Drawing.Color.MintCream;
+            this.ClientSize = new System.Drawing.Size(729, 358);
             this.Controls.Add(this.txtTexto);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnFinalizar);
